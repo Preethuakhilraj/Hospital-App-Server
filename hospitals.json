@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "hospitalName": "Appollo Kids Speciality",
+    "patientCount": 100,
+    "hospitalLocation": "Chennai"
+  },
+  {
+    "id": 2,
+    "hospitalName": "Appollo Eye Hospital",
+    "patientCount": 100,
+    "hospitalLocation": "Trivandrum"
+  },
+  {
+    "id": 3,
+    "hospitalName": "Appollo Dental Clinic",
+    "patientCount": 100,
+    "hospitalLocation": "Chennai"
+  },
+  {
+    "id": 4,
+    "hospitalName": "Appollo Multispeciality",
+    "patientCount": 1000,
+    "hospitalLocation": "Chennai"
+  },
+  {
+    "id": 5,
+    "hospitalName": "Appollo Multi Speciality ",
+    "patientCount": 200,
+    "hospitalLocation": "Banglure"
+  },
+  {
+    "id": 6,
+    "hospitalName": "Appollo Kids Speciality",
+    "patientCount": 200,
+    "hospitalLocation": "Kozhikode"
+  },
+  {
+    "id": 7,
+    "hospitalName": "Appollo Dental Clinic",
+    "patientCount": 200,
+    "hospitalLocation": "Kochi"
+  },
+  {
+    "id": 8,
+    "hospitalName": "Appollo cancer center",
+    "patientCount": 200,
+    "hospitalLocation": "TRIVANDRUM"
+  }
+]
